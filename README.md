@@ -1,7 +1,7 @@
 # SonarQube AWS Region Plugin
 
 ## Overview
-The SonarQube Regex Plugin is designed to analyze Java code and identify strings that look like hardcoded AWS regions.
+The SonarQube Regex Plugin is designed to analyze Java, TypeScript, JavaScript and  Python code and identify strings that look like hardcoded AWS regions.
 
 ## Features
 - Scans Java files for strings which look like hard-coded AWS regions.
